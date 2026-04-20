@@ -1,0 +1,2 @@
+# Early-Stage-Diabetes-Risk-Prediction-Using-Symptom-Based-Machine-Learning.
+This project uses machine learning to predict early-stage diabetes risk based on patient-reported symptoms and health indicators. It analyzes data, selects key features, and trains models to detect patterns linked to diabetes. The aim is to enable early diagnosis and support timely medical intervention for better health outcomes.
