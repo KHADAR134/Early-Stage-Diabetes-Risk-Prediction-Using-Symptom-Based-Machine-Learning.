@@ -136,9 +136,9 @@ This model can be used in web or mobile applications for early diabetes screenin
 
 ## Author
 
-*Khadar Basha Shaik
-*MSc Data Science
-*University of Hertfordshire
+* Khadar Basha Shaik
+* MSc Data Science
+* University of Hertfordshire
 
 ## License
 
